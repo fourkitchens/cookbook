@@ -1,0 +1,13 @@
+{
+    "name": "fourkitchens/sous-admin",
+    "description": "A single repo to house all our recipes.",
+    "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Callin Mullaney",
+            "role": "Maintainer"
+        }
+    ]
+}

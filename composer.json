@@ -3,7 +3,6 @@
     "description": "A recipe that contains modules, themes, and configuration for Sous's administration experience.",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",
-    "version": "1.0.0",
     "license": "GPL-2.0-or-later",
     "authors": [
         {

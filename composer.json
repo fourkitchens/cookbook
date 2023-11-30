@@ -9,5 +9,6 @@
             "name": "Callin Mullaney",
             "role": "Maintainer"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }

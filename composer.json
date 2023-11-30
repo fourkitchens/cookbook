@@ -1,5 +1,5 @@
 {
-    "name": "fourkitchens/sous-admin",
+    "name": "fourkitchens/cookbook",
     "description": "A single repo to house all our recipes.",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",

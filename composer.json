@@ -1,5 +1,5 @@
 {
-    "name": "fourkitchens/sous-admin",
+    "name": "fourkitchens/cookbook",
     "description": "A recipe that contains modules, themes, and configuration for Sous's administration experience.",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",
@@ -10,6 +10,7 @@
             "role": "Maintainer"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "drupal/admin_toolbar": "*",
         "drupal/entity_usage": "^2.0@beta",
